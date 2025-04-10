@@ -1,4 +1,3 @@
-#hola
 acl = int(input("Ingrese numero de ACL IPV4: ")) 
 
 if 1 <= acl <= 99 or 1300 <= acl <= 1999:
